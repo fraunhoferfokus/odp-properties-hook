@@ -10,7 +10,7 @@
 	<packaging>war</packaging>
 	<name>Properties Hook</name>
 	<scm>
-		<developerConnection>scm:git:git://github.com:fraunhoferfokus/odp-properties-hook.git</developerConnection>
+		<developerConnection>scm:git:git://gitlab.fokus.fraunhofer.de:odp-properties-hook</developerConnection>
 	</scm>
 	<build>
 		<plugins>
